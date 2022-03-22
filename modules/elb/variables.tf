@@ -25,3 +25,7 @@ variable "INSTANCE_USERNAME" {
 variable "env" {
   default = "prd"
 }
+
+variable "number_of_nodes" {
+  default = 1
+}
