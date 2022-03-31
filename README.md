@@ -2,7 +2,8 @@
 
 https://github.com/vamperst/Hybrid-e-native-cloud-tutorials/tree/master/Trabalho-final 
 
-
+Exercício Detalhado 
+------------------
 Exercicio Terraform
 
 Utilize o código da demo Count e faça as seguintes mudanças:
@@ -14,10 +15,5 @@ Utilize o código da demo Count e faça as seguintes mudanças:
     O nome do ELB e do Securitygroup também devem conter o workspace
     Crie um ambiente de dev
     Faça um zip dos arquivos desse exercicio e submeta no portal da fiap.
-
-Ajuda
-
-    How to create modules
-    Modules Composition
-    Creating Modules
-    AWS datasources
+    
+    
